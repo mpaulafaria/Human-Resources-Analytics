@@ -1,0 +1,258 @@
+2022-01-20 21:37:58,045:INFO:Initializing load_model()
+2022-01-20 21:37:58,084:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-20 21:38:33,497:INFO:Initializing load_model()
+2022-01-20 21:38:33,509:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-20 21:39:27,704:INFO:Initializing load_model()
+2022-01-20 21:39:27,736:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-20 21:39:38,562:INFO:Initializing load_model()
+2022-01-20 21:39:38,563:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-20 21:40:53,089:INFO:Initializing load_model()
+2022-01-20 21:40:53,096:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-20 21:41:36,556:INFO:Initializing load_model()
+2022-01-20 21:41:37,053:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-20 21:43:38,285:INFO:Initializing load_model()
+2022-01-20 21:43:38,351:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:14:28,351:INFO:Initializing load_model()
+2022-01-21 11:14:28,354:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:14:38,321:INFO:Initializing load_model()
+2022-01-21 11:14:38,327:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:14:39,373:INFO:Initializing load_model()
+2022-01-21 11:14:39,374:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:14:40,234:INFO:Initializing load_model()
+2022-01-21 11:14:40,234:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:14:45,910:INFO:Initializing load_model()
+2022-01-21 11:14:45,911:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:14:46,716:INFO:Initializing load_model()
+2022-01-21 11:14:46,717:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:14:47,616:INFO:Initializing load_model()
+2022-01-21 11:14:47,616:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:14:47,881:INFO:Initializing load_model()
+2022-01-21 11:14:47,882:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:14:49,842:INFO:Initializing load_model()
+2022-01-21 11:14:49,843:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:14:50,688:INFO:Initializing load_model()
+2022-01-21 11:14:50,689:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:14:52,634:INFO:Initializing load_model()
+2022-01-21 11:14:52,635:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:14:53,433:INFO:Initializing load_model()
+2022-01-21 11:14:53,434:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:14:54,273:INFO:Initializing load_model()
+2022-01-21 11:14:54,273:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:14:54,527:INFO:Initializing load_model()
+2022-01-21 11:14:54,527:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:14:55,869:INFO:Initializing load_model()
+2022-01-21 11:14:55,870:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:14:56,167:INFO:Initializing load_model()
+2022-01-21 11:14:56,168:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:14:59,814:INFO:Initializing load_model()
+2022-01-21 11:14:59,815:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:17:58,230:INFO:Initializing load_model()
+2022-01-21 11:17:58,230:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:18:04,911:INFO:Initializing load_model()
+2022-01-21 11:18:04,913:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:18:05,991:INFO:Initializing load_model()
+2022-01-21 11:18:05,992:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:18:06,263:INFO:Initializing load_model()
+2022-01-21 11:18:06,264:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:18:07,622:INFO:Initializing load_model()
+2022-01-21 11:18:07,624:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:18:07,967:INFO:Initializing load_model()
+2022-01-21 11:18:07,968:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:18:09,615:INFO:Initializing load_model()
+2022-01-21 11:18:09,617:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:18:09,933:INFO:Initializing load_model()
+2022-01-21 11:18:09,933:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:18:11,486:INFO:Initializing load_model()
+2022-01-21 11:18:11,489:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:43:36,753:INFO:Initializing load_model()
+2022-01-21 11:43:36,754:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:43:41,307:INFO:Initializing load_model()
+2022-01-21 11:43:41,308:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:43:42,680:INFO:Initializing load_model()
+2022-01-21 11:43:42,681:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:43:42,970:INFO:Initializing load_model()
+2022-01-21 11:43:42,972:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:43:45,730:INFO:Initializing load_model()
+2022-01-21 11:43:45,731:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:43:46,018:INFO:Initializing load_model()
+2022-01-21 11:43:46,019:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:43:48,820:INFO:Initializing load_model()
+2022-01-21 11:43:48,821:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:43:49,116:INFO:Initializing load_model()
+2022-01-21 11:43:49,117:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:43:49,260:INFO:Initializing predict_model()
+2022-01-21 11:43:49,261:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['yearsAtCompany'],
+                                      target='turnover')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('rem_outliers', 'passthrough'), ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='turnover')),
+                ('fix_perfect', Remove_100(target='turnover')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 GradientBoostingClassifier(random_state=2550)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2022-01-21 11:43:49,267:INFO:Checking exceptions
+2022-01-21 11:43:49,269:INFO:Preloading libraries
+2022-01-21 11:45:15,704:INFO:Initializing load_model()
+2022-01-21 11:45:15,704:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:45:17,156:INFO:Initializing load_model()
+2022-01-21 11:45:17,157:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:45:17,468:INFO:Initializing load_model()
+2022-01-21 11:45:17,469:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:45:20,252:INFO:Initializing load_model()
+2022-01-21 11:45:20,253:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:45:21,094:INFO:Initializing load_model()
+2022-01-21 11:45:21,096:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:46:06,226:INFO:Initializing load_model()
+2022-01-21 11:46:06,227:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:46:06,508:INFO:Initializing load_model()
+2022-01-21 11:46:06,509:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:46:09,353:INFO:Initializing load_model()
+2022-01-21 11:46:09,355:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:46:09,782:INFO:Initializing load_model()
+2022-01-21 11:46:09,784:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:46:13,028:INFO:Initializing load_model()
+2022-01-21 11:46:13,028:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:46:13,291:INFO:Initializing load_model()
+2022-01-21 11:46:13,292:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:46:15,962:INFO:Initializing load_model()
+2022-01-21 11:46:15,963:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:46:16,265:INFO:Initializing load_model()
+2022-01-21 11:46:16,265:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:46:19,889:INFO:Initializing load_model()
+2022-01-21 11:46:19,891:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:46:20,154:INFO:Initializing load_model()
+2022-01-21 11:46:20,156:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:46:22,846:INFO:Initializing load_model()
+2022-01-21 11:46:22,846:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:46:23,096:INFO:Initializing load_model()
+2022-01-21 11:46:23,097:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:46:30,981:INFO:Initializing load_model()
+2022-01-21 11:46:30,981:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:46:39,915:INFO:Initializing load_model()
+2022-01-21 11:46:39,915:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:46:45,655:INFO:Initializing load_model()
+2022-01-21 11:46:45,656:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:46:47,271:INFO:Initializing load_model()
+2022-01-21 11:46:47,272:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:46:51,873:INFO:Initializing load_model()
+2022-01-21 11:46:51,874:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:47:03,087:INFO:Initializing load_model()
+2022-01-21 11:47:03,090:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 11:47:03,191:INFO:Initializing predict_model()
+2022-01-21 11:47:03,192:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['yearsAtCompany'],
+                                      target='turnover')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('rem_outliers', 'passthrough'), ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='turnover')),
+                ('fix_perfect', Remove_100(target='turnover')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 GradientBoostingClassifier(random_state=2550)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2022-01-21 11:47:03,195:INFO:Checking exceptions
+2022-01-21 11:47:03,199:INFO:Preloading libraries
+2022-01-21 12:21:19,030:INFO:Initializing load_model()
+2022-01-21 12:21:19,036:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:01,539:INFO:Initializing load_model()
+2022-01-21 13:44:01,542:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:02,242:INFO:Initializing load_model()
+2022-01-21 13:44:02,243:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:06,782:INFO:Initializing load_model()
+2022-01-21 13:44:06,784:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:07,323:INFO:Initializing load_model()
+2022-01-21 13:44:07,325:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:10,877:INFO:Initializing load_model()
+2022-01-21 13:44:10,878:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:11,171:INFO:Initializing load_model()
+2022-01-21 13:44:11,172:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:13,459:INFO:Initializing load_model()
+2022-01-21 13:44:13,460:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:15,077:INFO:Initializing load_model()
+2022-01-21 13:44:15,078:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:15,178:INFO:Initializing predict_model()
+2022-01-21 13:44:15,183:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['yearsAtCompany'],
+                                      target='turnover')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('rem_outliers', 'passthrough'), ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='turnover')),
+                ('fix_perfect', Remove_100(target='turnover')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 GradientBoostingClassifier(random_state=2550)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2022-01-21 13:44:15,189:INFO:Checking exceptions
+2022-01-21 13:44:15,189:INFO:Preloading libraries
+2022-01-21 13:44:18,137:INFO:Initializing load_model()
+2022-01-21 13:44:18,138:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:18,691:INFO:Initializing load_model()
+2022-01-21 13:44:18,693:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:23,589:INFO:Initializing load_model()
+2022-01-21 13:44:23,589:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:23,925:INFO:Initializing load_model()
+2022-01-21 13:44:23,926:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:27,185:INFO:Initializing load_model()
+2022-01-21 13:44:27,187:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:27,612:INFO:Initializing load_model()
+2022-01-21 13:44:27,615:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:30,896:INFO:Initializing load_model()
+2022-01-21 13:44:30,898:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:31,214:INFO:Initializing load_model()
+2022-01-21 13:44:31,216:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:33,661:INFO:Initializing load_model()
+2022-01-21 13:44:33,662:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:34,047:INFO:Initializing load_model()
+2022-01-21 13:44:34,050:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-21 13:44:34,251:INFO:Initializing predict_model()
+2022-01-21 13:44:34,258:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['yearsAtCompany'],
+                                      target='turnover')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('rem_outliers', 'passthrough'), ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='turnover')),
+                ('fix_perfect', Remove_100(target='turnover')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 GradientBoostingClassifier(random_state=2550)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2022-01-21 13:44:34,294:INFO:Checking exceptions
+2022-01-21 13:44:34,311:INFO:Preloading libraries
